@@ -1,5 +1,5 @@
 # Exclude configuration file
-db_config.ini
-credentials.env
-snowflake_cred.ini
-airflow.cfg
+/home/growlt245/Desktop/Car_Insurance_Policy_Project/ML/db_config.ini
+/home/growlt245/Desktop/Car_Insurance_Policy_Project/LLM/credentials.env
+/home/growlt245/Desktop/Car_Insurance_Policy_Project/ML/snowflake_cred.ini
+/home/growlt245/airflow/airflow.cfg
