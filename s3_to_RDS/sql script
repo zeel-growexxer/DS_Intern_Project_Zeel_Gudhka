@@ -1,0 +1,29 @@
+CREATE TABLE car_insurance_policy_data (
+    customer_id INT,
+    shopping_pt INT,
+    record_type INT,
+    day INT,
+    time TIME,
+    state_code VARCHAR(2),
+    location_coord INT,
+    group_size INT,
+    homeowner INT,
+    car_age INT,
+    car_value VARCHAR(2),
+    risk_factor INT,
+    age_oldest INT,
+    age_youngest INT,
+    married_couple INT,
+    c_previous INT,
+    duration_previous INT,
+    "A" INT,
+    "B" INT,
+    "C" INT,
+    "D" INT,
+    "E" INT,
+    "F" INT,
+    "G" INT,
+    cost INT
+);
+
+SELECT * FROM car_insurance_policy_data;
