@@ -5,6 +5,3 @@ credentials.env
 airflow.cfg
 db_config.ini
 snowflake_cred.ini
-
-# Ignore all files in the .git folder
-.git/
