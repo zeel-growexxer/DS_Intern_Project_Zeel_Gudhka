@@ -1,7 +1,5 @@
 # Ignore configuration and environment files
-*.env
 credentials.env
-*.ini
 
 # Ignore airflow and database configuration files
 airflow.cfg
