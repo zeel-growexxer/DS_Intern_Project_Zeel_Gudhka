@@ -1,0 +1,5 @@
+# Exclude configuration file
+db_config.ini
+credentials.env
+snowflake_cred.ini
+airflow.cfg
