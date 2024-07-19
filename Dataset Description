@@ -1,0 +1,31 @@
+Dataset Description
+Overview
+
+This dataset contains information about customers and their shopping and purchase points related to car insurance policies. Each entry includes details about the customer's demographics, vehicle, and insurance-related attributes.
+
+Dataset Fields
+    Customer ID: A unique identifier for the customer.
+    Shopping Point: Unique identifier for the shopping point of the customer.
+    Record Type: The record type (0: shopping point, 1: purchase point).
+    Day: Day of the week when the shopping point was created.
+    Time: Time of the day when the shopping point was created.
+    State: The state where the shopping point was created.
+    Location Coordinate: The location where the shopping point was created.
+    Group Size: The size of the group the customer is shopping for.
+    Homeowner: Whether the customer is a homeowner or not.
+    Car Age: The age of the customer's car.
+    Car Value: Value of the customer's car at purchase time.
+    C Previous: Previous car type.
+    Duration Previous: The duration of the customer's previous insurance policy.
+    Risk Factor: The risk factor assigned to the customer.
+    Age Oldest: Age of the oldest person in the customer's group.
+    Age Youngest: Age of the youngest person in the customer's group.
+    Married Couple: Indicates whether the group includes a married couple.
+    A: Coverage level.
+    B: Smoking type.
+    C: Car type.
+    D: Purpose of the vehicle.
+    E: Safety features.
+    F: Driver's historic record.
+    G: Area where the user will drive the car (rural, urban, suburban, or hazardous).
+    Cost: The cost of the insurance policy.
